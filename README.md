@@ -10,7 +10,6 @@ RepoLens is a Python tool that analyzes GitHub repositories and generates action
 
 ## Usage
 1. Clone the repository:
-```bash
 git clone https://github.com/AyeshaSiddikhShaik/repolens.git
 
 ## Technologies
